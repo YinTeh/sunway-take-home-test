@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+langchain
+faiss-cpu
+langchain_google_genai
+langchain-community
+crewai
+load_dotenv
+crewai_tools
